@@ -1,6 +1,6 @@
-#Adventure Engine 2
+# Adventure Engine 2
 
-##In C this time.
+## In C this time.
 
 Welcome to my second attempt at a text adventure language!  
 My previous attempt, Adventure Engine, was written in Python,
